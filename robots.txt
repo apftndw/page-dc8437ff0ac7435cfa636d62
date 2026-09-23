@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://5km3wc.cn/sitemap.xml

@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3367d102c48c583efe8c1203",
+  "owner": "apftndw",
+  "repo": "page-dc8437ff0ac7435cfa636d62",
+  "title": "乐牛(LEOX)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dc8437ff0ac7435cfa636d62",
+      "a": "乐牛(LEOX)",
+      "b": "机场官网线路发布页",
+      "entity": "乐牛(LEOX)",
+      "brand": "乐牛(LEOX)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4295bc92ceb223550125dbf1f9ef4e8ccd721f7e0e98c911b5b6466f628422cb",
+      "content": {
+        "primary_entity": "乐牛(LEOX)",
+        "keyword1": "乐牛(LEOX)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows 与 macOS 可用 Clash Verge 或 ClashX，iOS 可选 Shadowrocket 或 Stash，Android 可用 Clash Meta 或 v2rayNG，路由器端 OpenWrt 可搭配 OpenClash。安装后导入订阅，按客户端文档调整规则与模式。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选择适合使用场景的乐牛(LEOX)套餐，按客户端文档完成订阅导入。",
+          "AI_CLOSING_TITLE": "订阅乐牛，按需选套餐",
+          "AI_DESCRIPTION": "，乐牛(LEOX)提供基础版、旗舰版与团队版三档套餐，月付分别为 ¥15、¥35、¥85，按年付为 ¥150、¥350、¥850。基础版含 100GB 流量与 3 台设备，旗舰版为 300GB 与 5 台设备并配 IPLC 专线，团队版提供 1000GB 与 20 台设备。可结合设备数量、月流量与订阅周期做套餐对比，再依客户端文档配置订阅。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合个人日常浏览与基础流媒体。按年付为 ¥150/年，比按月支付更省。如果仅一台手机或电脑使用，流量需求不大，可优先考虑这一档。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB 流量，支持 5 台设备同时在线，包含 IPLC 专线游戏加速优化与 7x24 优先工单支持。月付 ¥35，按年付 ¥350。适合多设备用户、对线路稳定和流媒体解锁有较高要求的场景。",
+          "AI_FAQ_ANSWER_3": "团队版每月 1000GB 流量，支持 20 台设备同时在线，提供 VIP 专属高带宽节点、企业定制路由与专属客户经理服务。月付 ¥85，按年付 ¥850。适合小型团队或工作室集中管理多台设备。",
+          "AI_FAQ_ANSWER_4": "Windows 与 macOS 可选择 Clash Verge 或 ClashX，iOS 可选 Shadowrocket 或 Stash，Android 可用 Clash Meta 或 v2rayNG，路由器端 OpenWrt 可搭配 OpenClash。安装后导入订阅，按客户端文档调整规则。",
+          "AI_FAQ_ANSWER_5": "按月付适合短期尝试或流量波动大的用户，按年付单价更低，例如基础版年付 ¥150 相当于 ¥12.5/月，旗舰版年付 ¥350 相当于约 ¥29/月。若长期使用且设备与流量需求稳定，年付更划算。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么样的使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_3": "团队版主要面向哪类用户？",
+          "AI_FAQ_QUESTION_4": "不同设备应该选择哪个客户端？",
+          "AI_FAQ_QUESTION_5": "按月付和按年付怎么选？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "乐牛(LEOX)的套餐按流量、设备数量和线路质量分档，便于按需选择。",
+          "AI_FEATURES_TITLE": "套餐与设备搭配",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台设备、旗舰版 300GB/5 台设备、团队版 1000GB/20 台设备，按人数与流量挑选。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化与优先工单支持，团队版提供 VIP 高带宽节点与定制路由。",
+          "AI_FEATURE_TEXT_3": "各档均支持月付与年付，年付价格为 ¥150、¥350、¥850，订阅周期越长单月成本越低。",
+          "AI_FEATURE_TITLE_1": "按需选流量档位",
+          "AI_FEATURE_TITLE_2": "线路与支持有差异",
+          "AI_FEATURE_TITLE_3": "月付年付灵活选",
+          "AI_GUIDE_INTRO": "先确认设备数量和月流量，再对照套餐权益，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "乐牛(LEOX)提供基础版、旗舰版与团队版三档海外加速套餐，月付 ¥15 起，按年付最低 ¥150 起。套餐覆盖不同流量与设备数量，旗舰版含 IPLC 专线游戏加速优化，团队版支持 20 台设备与定制路由。",
+          "AI_HERO_SUBTITLE": "乐牛(LEOX)多档套餐可选",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，20 台设备",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版兼顾多设备与游戏加速，团队版面向小型团队集中管理。对比流量、设备数与线路权益，选择与使用场景匹配的档位。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量与月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "对照所选套餐的流量额度、设备上限与线路权益，确认是否满足流媒体或游戏加速需求。",
+          "AI_STEP_TEXT_3": "按设备类型安装推荐客户端，并在客户端中导入订阅、调整规则与代理模式。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "乐牛(LEOX)套餐与设备指南"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "5km3wc.cn",
+    "host": "5km3wc.cn"
+  },
+  "file_hashes": {
+    "index.html": "6f93226bec9b6e6443ed7cdb4e9bb82b86653bf8a02c7a325cc71cbf8612585c",
+    "sitemap.xml": "d3299e6f88a5cc27a75ab2fe0a13c89eee8a576dd4a1aa218f801ed46b1a38b7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f979e1f8b577266d1190acfa6e9a767a589966f1b81b6f775dd6d30d83588a4b",
+    "robots.txt": "1110d8b6ea53204bb985326f8268dc80b27aafee64437823d5c4242dff574303",
+    "1bb659ef48ef6bd5a5648ab2188a0ed7.txt": "1162d4133c51e01af556d25ee2c78489fe68ef034c29b66b729334319bc2a001"
+  },
+  "revision": "0c4fe01b40e3663dcc363dc05790900a5d840e9c6fb8cbea716a567ce096ba15"
+}
